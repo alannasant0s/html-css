@@ -40,3 +40,9 @@ header {
     padding: 10px;
     margin: 0px;
 }
+.cabecalho {
+    background-color: #1e7d1e;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
