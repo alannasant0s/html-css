@@ -32,7 +32,11 @@ header {
 .main-nav a:hover {
     text-decoration: underline;
 }
+.paragrafo-recuado {
+    text-indent: 20px;
+    margin: 10px 0;
 
+}
 .conteudo {
     background-color: white;
     text-align: justify;
