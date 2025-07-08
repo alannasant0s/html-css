@@ -37,5 +37,6 @@ header {
     background-color: white;
     text-align: justify;
     font-family: 'Arial', sans-serif;
-    margin: 20px;
+    padding: 10px;
+    margin: 0px;
 }
