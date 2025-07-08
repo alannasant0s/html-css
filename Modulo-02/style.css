@@ -1,17 +1,41 @@
 @charset "UTF-8";
 
+body {
+    background-color: #a0f7cb;
+}
+
 header {
-    background: #024617;
-    color: #fff;
-    padding: 10px 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #1e7d1e;
+    color: white;
     text-align: center;
+    padding: 60px;
 }
 
-h1 {
-    margin: 0;
+.main-nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
 }
 
-p {
-    margin: 0;
-    padding: 0 20px;
+.main-nav li {
+    margin: 0 10px;
+    padding: 0;
+}
+
+.main-nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.main-nav a:hover {
+    text-decoration: underline;
+}
+
+.conteudo {
+    background-color: white;
+    text-align: justify;
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
 }
